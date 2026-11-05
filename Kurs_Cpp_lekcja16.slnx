@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Kurs_Cpp_lekcja16/Kurs_Cpp_lekcja16.vcxproj" Id="e6334853-cc70-4ef6-93fb-1e982138f9c2" />
+</Solution>
